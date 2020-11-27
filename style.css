@@ -4,7 +4,7 @@ img {
 }
 p {
     font-family: arial;
-    color: blanchedalmond;"
+    color: black;
   }
   img {
     display: block;
@@ -18,4 +18,3 @@ p {
   }
   h1 {text-align: center;}
   h2 {text-align: center;}
-  <div style="background-image: url('img_girl.jpg');">
