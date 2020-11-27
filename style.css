@@ -18,6 +18,8 @@ p {
   }
   h1 {text-align: center;}
   h2 {text-align: center;}
-  body {
-    background-image: url('img_girl.jpg');
-  }
+  <style>
+         body {
+            background-image: url("/videotutorials/images/tutor_connect_home.jpg");
+         }
+      </style>
