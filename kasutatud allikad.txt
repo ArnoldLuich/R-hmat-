@@ -1,0 +1,13 @@
+<div class="center">
+		<p>30 aasta juubelit tähistav Microsoft Solitaire on endiselt ajaloo kõige mängitum videomäng! 
+		See lisati 2019. aastal kõige väljapaistvamate videomängude kogusse „Video Game Hall of Fame“ 
+		ning miljonid mängijad eelistavad rakendust Microsoft Solitaire Collection,
+		kuna see sisaldab parimaid Solitaire’i 
+		kaardimänge: Klondike Solitaire, Spider Solitaire, FreeCell Solitaire, TriPeaks Solitaire ja Pyramid Solitaire!</p>
+		<p>Lisa infot mängu kohta saab <a href="https://www.microsoft.com/et-ee/p/microsoft-solitaire-collection/9wzdncrfhwd2?activetab=pivot:overviewtab" target="_blank">siit</a> </p>
+	</div>
+	<h2>Kümmnes mäng on Mini World</h2>
+	<img
+			src="https://myce.com/wp-content/images_posts/2020/07/nlhb6qk3yt5vg1ocfbih.jpg"
+			alt="Sublim"
+	/>
