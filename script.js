@@ -4,4 +4,4 @@
 		document.getElementById("pealkiri").style.color = "white";
 		document.getElementById("pealkiri").style.backgroundColor = "black";        
 		}
-</script>
+		</script>	
